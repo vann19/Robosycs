@@ -2,14 +2,16 @@
 
 @theme {
   --color-robotika: #191747;
+  --color-secondary: #B2FC08;
 }
 .shadow-custom {
-  box-shadow: -224px 0px 80px 10px rgba(194, 250, 80, 0.10), 
-              -143px 0px 70px 15px rgba(194, 250, 80, 0.15), 
-              -80px 0px 60px 20px rgba(194, 250, 80, 0.20), 
-              -36px 0px 50px 25px rgba(194, 250, 80, 0.25), 
-              -9px 0px 30px 30px rgba(194, 250, 80, 0.30);
+  box-shadow: -224px 0px 63px 0px rgba(194, 250, 80, 0.00), 
+              -143px 0px 57px 0px rgba(194, 250, 80, 0.01), 
+              -80px 0px 48px 0px rgba(194, 250, 80, 0.05), 
+              -36px 0px 36px 0px rgba(194, 250, 80, 0.09), 
+              -9px 0px 20px 0px rgba(194, 250, 80, 0.10);
 }
+
 
 
 
